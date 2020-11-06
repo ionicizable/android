@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Лаб1</string>
+    <string name="button1">Подтвердить</string>
+    <string name="second_activity">Вторая активность</string>
+    <string name="main_activity">Первая активность</string>
+    <string name="error_message">Пустая строка</string>
+</resources>
